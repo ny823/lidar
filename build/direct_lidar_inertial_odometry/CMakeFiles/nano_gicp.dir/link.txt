@@ -1,0 +1,2 @@
+/usr/bin/ar qc /Code/lidar_ws/devel/lib/libnano_gicp.a CMakeFiles/nano_gicp.dir/src/nano_gicp/lsq_registration.cc.o CMakeFiles/nano_gicp.dir/src/nano_gicp/nano_gicp.cc.o
+/usr/bin/ranlib /Code/lidar_ws/devel/lib/libnano_gicp.a

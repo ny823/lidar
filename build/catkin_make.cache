@@ -1,0 +1,2 @@
+Depth:FAST_LIO:LIO-SAM-MID360:Point-LIO:direct_lidar_inertial_odometry:livox_ros_driver/livox_ros_driver:livox_ros_driver2
+-DCATKIN_DEVEL_PREFIX=/Code/lidar_ws/devel -DCMAKE_INSTALL_PREFIX=/Code/lidar_ws/install -G Unix Makefiles

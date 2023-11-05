@@ -1,0 +1,2 @@
+set(depth_MESSAGE_FILES "")
+set(depth_SERVICE_FILES "")

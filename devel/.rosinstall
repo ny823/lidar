@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /Code/lidar_ws/devel/setup.sh
